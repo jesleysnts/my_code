@@ -1,0 +1,22 @@
+.item {
+  border: solid 1px;
+  margin: 10px;
+  margin-left: 10px;
+  width: 400px;
+}
+
+.item h1 {
+  margin-left: 10px;
+}
+
+.item p {
+  margin-left: 10px;
+}
+
+.item button {
+  width: 20px;
+  display: flex;
+  width: 40px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
